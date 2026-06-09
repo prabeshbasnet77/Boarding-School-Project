@@ -1,0 +1,12 @@
+{
+  "name": "Ekata Shishu Niketan",
+  "description": "Nurturing Excellence, Shaping Futures. A comprehensive institutional portal including school homepage, notice board, and administrator dashboard for candidate inquiries, galleries, and configurations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
